@@ -40,11 +40,9 @@ Text-Summarization/
 
 ## 📸 Output
 
-Place your summarization output screenshot inside the `images/` folder and name it `output.png`.
+![Summarization Output 1](/Output_Screenshots/op1.jpg)
 
-![Summarization Output 1](/Projects/Project- Text Summerization/op1.png)
-
-![Summarization Output 2](/Projects/Project- Text Summerization/op2.png)
+![Summarization Output 2](/Output_Screenshots/op2.jpg)
 
 ## 🚀 How to Run
 
