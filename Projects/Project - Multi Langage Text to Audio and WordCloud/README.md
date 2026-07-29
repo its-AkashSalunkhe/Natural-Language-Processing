@@ -42,9 +42,7 @@ Globalize/
 
 ## 📸 Application Output
 
-Place your application screenshot inside the `images/` folder and name it `output.png`.
-
-![Application Output](/Projects/Project - Multi Langage Text to Audio and WordCloud/op1.png)
+![Application Output] (/Projects/Project - Multi Langage Text to Audio and WordCloud/op1.png)
 
 ## 🚀 How to Run
 
