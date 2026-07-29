@@ -40,9 +40,9 @@ Text-Summarization/
 
 ## 📸 Output
 
-![Summarization Output 1](/Output_Screenshots/op1.jpg)
+![Summarization Output 1](/Output_Screenshots/op1.png)
 
-![Summarization Output 2](/Output_Screenshots/op2.jpg)
+![Summarization Output 2](/Output_Screenshots/op2.png)
 
 ## 🚀 How to Run
 
