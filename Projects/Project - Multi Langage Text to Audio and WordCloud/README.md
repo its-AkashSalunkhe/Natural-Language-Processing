@@ -42,7 +42,7 @@ Globalize/
 
 ## 📸 Application Output
 
-![Application Output] (/Output_Screenshots/op.jpg)
+![Application Output](/Output_Screenshots/op.png)
 
 ## 🚀 How to Run
 
