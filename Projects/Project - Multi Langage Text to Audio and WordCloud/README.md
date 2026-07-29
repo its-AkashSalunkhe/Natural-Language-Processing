@@ -42,7 +42,7 @@ Globalize/
 
 ## 📸 Application Output
 
-![Application Output] (/Projects/Project - Multi Langage Text to Audio and WordCloud/op1.png)
+![Application Output] (/Output_Screenshots/op.jpg)
 
 ## 🚀 How to Run
 
